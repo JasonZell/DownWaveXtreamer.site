@@ -1,2 +1,2 @@
 # DownWaveXtreamer.site
-DownWaveXtreamer.site host files.
+http://seawaveapp.site/ host files.
